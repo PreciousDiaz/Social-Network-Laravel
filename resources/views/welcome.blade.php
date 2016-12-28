@@ -21,6 +21,7 @@ WELCOME!
 				<label for="password">Your First Name</label>
 				<input class ="form-control" type="password" name="password" id="password">
 				</div>
+				<button type="submit" class = "btn btn-primary">Submit</button>
 			</form>
 	</div>	
 	
@@ -35,6 +36,7 @@ WELCOME!
 				<label for="password">Your First Name</label>
 				<input class ="form-control" type="password" name="password" id="password">
 				</div>
+				<button type="submit" class = "btn btn-primary">Submit</button>
 			</form>
 	</div>	
 	</div>
